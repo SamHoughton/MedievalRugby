@@ -1,4 +1,4 @@
-# MedievalRugby
+# Medieval Rugby Game for University of Lincoln
 ## Game for the physics simulation module at University of Lincoln
 
 ### Checklist
