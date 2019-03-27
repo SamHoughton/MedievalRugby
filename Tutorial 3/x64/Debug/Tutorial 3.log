@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tutorial 3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Tutorial 3.cpp
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(262): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(274): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(283): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(308): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(317): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+  VisualDebugger.cpp
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(262): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(274): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(283): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(308): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\myphysicsengine.h(317): warning C4244: 'argument': conversion from 'int' to 'physx::PxReal', possible loss of data
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\visualdebugger.cpp(222): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\student\desktop\one more day\physicssimulationwork-master\tutorial 3\visualdebugger.cpp(235): warning C4065: switch statement contains 'default' but no 'case' labels
+  Generating Code...
+  Tutorial 3.vcxproj -> C:\Users\Student\Desktop\One more Day\PhysicsSimulationWork-master\x64\Debug\Rugby.exe

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Extras\GLFontRenderer.cpp">
+      <Filter>PhysX Information</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsEngine.cpp">
+      <Filter>Physics Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Extras\Camera.cpp">
+      <Filter>Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Extras\Renderer.cpp">
+      <Filter>PhysX Information</Filter>
+    </ClCompile>
+    <ClCompile Include="VisualDebugger.cpp">
+      <Filter>Visual Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial 3.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Extras\GLFontData.h">
+      <Filter>PhysX Information</Filter>
+    </ClInclude>
+    <ClInclude Include="Extras\GLFontRenderer.h">
+      <Filter>PhysX Information</Filter>
+    </ClInclude>
+    <ClInclude Include="Exception.h">
+      <Filter>PhysX Information</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPhysicsEngine.h">
+      <Filter>Physics Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsEngine.h">
+      <Filter>Physics Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Extras\Camera.h">
+      <Filter>Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Extras\Renderer.h">
+      <Filter>PhysX Information</Filter>
+    </ClInclude>
+    <ClInclude Include="Extras\HUD.h">
+      <Filter>PhysX Information</Filter>
+    </ClInclude>
+    <ClInclude Include="VisualDebugger.h">
+      <Filter>Visual Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicActors.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Extras\UserData.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="PhysX Information">
+      <UniqueIdentifier>{f18fa8e3-fba2-4e47-9e79-9623233cb88c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics Engine">
+      <UniqueIdentifier>{fea2699c-ec61-4945-a494-88c50c4d57cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Camera">
+      <UniqueIdentifier>{5be48c02-b6d7-4cdd-b8b6-bbbb5adae1b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Visual Debug">
+      <UniqueIdentifier>{f92e2511-5a93-41ea-bb39-c834922cf18a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{e89a9aff-9e61-4b76-8f68-1675da7a04ca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
