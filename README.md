@@ -1,7 +1,8 @@
-### MedievalRugby
-# Game for the physics simulation module at University of Lincoln
+# MedievalRugby
+## Game for the physics simulation module at University of Lincoln
 
-- [x ] Base Game
+### Checklist
+- [x] Base Game
 - [x] Arena
 - [x] Shooting
 - [x] Catapult
